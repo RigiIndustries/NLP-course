@@ -1,0 +1,11 @@
+.idea/
+
+venv/
+
+__pycache__/
+*.pyc
+
+nltk_data/
+
+.DS_Store
+Thumbs.db
